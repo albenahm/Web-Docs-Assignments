@@ -40,6 +40,11 @@ text-align: center;
 h4				{font-size: 1em;}
 h5              { font-size: 0.83em;  }
 
+h3.about-us{
+	font-size: 1.17em;
+	text-align: left;
+}
+
 /*Browser resolution*/
 
 
@@ -223,8 +228,8 @@ i
 
 .copyright {
 	color: gray;
-}
 
+}
 .about-section {
 	padding: 50px;
 	text-align: center;
@@ -269,7 +274,3 @@ input[type=submit]:hover {
 	padding: 20px;
 }
 
-h3.about-us{
-	font-size: 1.17em;
-	text-align: left;
-}
